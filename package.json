@@ -1,0 +1,14 @@
+{
+  "name": "js-import-export",
+  "version": "1.0.0",
+  "description": "simple explaination of import/export in js",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "ir",
+  "license": "ISC",
+  "dependencies": {
+    "parcel-bundler": "^1.12.4"
+  }
+}
