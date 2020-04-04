@@ -12,7 +12,7 @@
 - `export default variable-name;`
 - `export { variable-name as default };`
 
-### NB: objects imported/exported can obviously be any types, primitives, objects, functions, ecc . . .
+### NB: objects imported/exported can obviously be any types, primitives, objects, functions, ecc...
 
 ## Usage
 - npm install
