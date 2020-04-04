@@ -4,7 +4,7 @@
   "description": "simple explaination of import/export in js",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "start": "parcel index.html"
   },
   "author": "ir",
   "license": "ISC",
